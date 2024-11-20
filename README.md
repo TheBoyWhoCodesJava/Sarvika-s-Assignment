@@ -38,4 +38,4 @@ Clone the repository to local machine using the following command:
 Note: Ensure Postgres is added in your machin
 
 ```bash
-git clone https://github.com/your-username/spring-boot-product-api.git
+[git clone https://github.com/TheBoyWhoCodesJava/Sarvika-s-Assignment.git]
