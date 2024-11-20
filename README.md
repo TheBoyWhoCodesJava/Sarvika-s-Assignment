@@ -31,7 +31,7 @@ and user-friendly error messages. Swagger (OpenAPI) is also integrated for API d
 - Spring Web
 - Spring Validation (JSR 380)
 - Swagger (OpenAPI)
-- Lombok (for reducing boilerplate code)
+- Lombok 
 
 ## Setup
 
