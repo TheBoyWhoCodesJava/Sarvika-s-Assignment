@@ -18,7 +18,7 @@ and user-friendly error messages. Swagger (OpenAPI) is also integrated for API d
 - Java 17 or later
 - PostgreSQL
 - Maven
-- Postman or any API testing tool
+- Postman 
 
 ## Technologies Used
 
