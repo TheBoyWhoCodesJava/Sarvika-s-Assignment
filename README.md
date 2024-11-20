@@ -5,6 +5,9 @@ a `Product` entity. It uses Spring Data JPA for database interaction,
 PostgreSQL for persistence, and implements proper validation, exception handling, 
 and user-friendly error messages. Swagger (OpenAPI) is also integrated for API documentation.
 
+## Swagger API Link
+[http://localhost:8080/swagger-ui/index.html#]
+
 ## Features
 
 - **CRUD Operations**: Perform Create, Read, Update, and Delete operations on `Product`.
